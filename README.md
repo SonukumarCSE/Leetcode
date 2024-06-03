@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SonukumarCSE/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/SonukumarCSE/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SonukumarCSE/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 # Depth-First Search
 |  |
@@ -20,8 +21,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SonukumarCSE/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/SonukumarCSE/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SonukumarCSE/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 # Stack
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SonukumarCSE/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/SonukumarCSE/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+# Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/SonukumarCSE/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+# Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/SonukumarCSE/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+# Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/SonukumarCSE/Leetcode/tree/master/0173-binary-search-tree-iterator) |
