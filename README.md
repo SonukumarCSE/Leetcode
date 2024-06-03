@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/SonukumarCSE/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/SonukumarCSE/Leetcode/tree/master/0295-find-median-from-data-stream) |
 # Binary Search Tree
 |  |
 | ------- |
@@ -48,3 +49,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SonukumarCSE/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+# Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/SonukumarCSE/Leetcode/tree/master/0295-find-median-from-data-stream) |
+# Sorting
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/SonukumarCSE/Leetcode/tree/master/0295-find-median-from-data-stream) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/SonukumarCSE/Leetcode/tree/master/0295-find-median-from-data-stream) |
+# Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/SonukumarCSE/Leetcode/tree/master/0295-find-median-from-data-stream) |
