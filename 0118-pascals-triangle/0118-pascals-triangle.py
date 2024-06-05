@@ -3,11 +3,11 @@ class Solution:
         
         pascal_tria = []
         pascal_tria.append([1])
-        pascal_tria.append([1,1])
         if numRows == 1:
-            return [[1]]
+            return pascal_tria
+        pascal_tria.append([1,1])
         if numRows == 2:
-            return [[1],[1,1]]
+            return pascal_tria
         for i in range(2,numRows):
             arr = pascal_tria[i-1]
             # print(arr)
