@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/SonukumarCSE/Leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/SonukumarCSE/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SonukumarCSE/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/SonukumarCSE/Leetcode/tree/master/0118-pascals-triangle) |
 # Dynamic Programming
@@ -81,3 +82,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SonukumarCSE/Leetcode/tree/master/0053-maximum-subarray) |
+# Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/SonukumarCSE/Leetcode/tree/master/0048-rotate-image) |
+# Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/SonukumarCSE/Leetcode/tree/master/0048-rotate-image) |
