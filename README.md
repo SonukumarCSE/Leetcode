@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/SonukumarCSE/Leetcode/tree/master/0031-next-permutation) |
 | [0295-find-median-from-data-stream](https://github.com/SonukumarCSE/Leetcode/tree/master/0295-find-median-from-data-stream) |
 # Sorting
 |  |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/SonukumarCSE/Leetcode/tree/master/0031-next-permutation) |
 | [0118-pascals-triangle](https://github.com/SonukumarCSE/Leetcode/tree/master/0118-pascals-triangle) |
 # Dynamic Programming
 |  |
