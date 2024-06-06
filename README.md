@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/SonukumarCSE/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/SonukumarCSE/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/SonukumarCSE/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0876-hand-of-straights](https://github.com/SonukumarCSE/Leetcode/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/SonukumarCSE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 # Heap (Priority Queue)
 |  |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/SonukumarCSE/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/SonukumarCSE/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SonukumarCSE/Leetcode/tree/master/0118-pascals-triangle) |
+| [0876-hand-of-straights](https://github.com/SonukumarCSE/Leetcode/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/SonukumarCSE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 # Dynamic Programming
 |  |
@@ -114,3 +116,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/SonukumarCSE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+# Hash Table
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/SonukumarCSE/Leetcode/tree/master/0876-hand-of-straights) |
+# Greedy
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/SonukumarCSE/Leetcode/tree/master/0876-hand-of-straights) |
