@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/SonukumarCSE/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/SonukumarCSE/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SonukumarCSE/Leetcode/tree/master/0118-pascals-triangle) |
+| [0648-replace-words](https://github.com/SonukumarCSE/Leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/SonukumarCSE/Leetcode/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/SonukumarCSE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SonukumarCSE/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0648-replace-words](https://github.com/SonukumarCSE/Leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/SonukumarCSE/Leetcode/tree/master/0876-hand-of-straights) |
 # Greedy
 |  |
@@ -133,3 +135,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SonukumarCSE/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+# String
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/SonukumarCSE/Leetcode/tree/master/0648-replace-words) |
+# Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/SonukumarCSE/Leetcode/tree/master/0648-replace-words) |
