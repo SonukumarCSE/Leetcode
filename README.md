@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SonukumarCSE/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/SonukumarCSE/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SonukumarCSE/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/SonukumarCSE/Leetcode/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/SonukumarCSE/Leetcode/tree/master/0139-word-break) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SonukumarCSE/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/SonukumarCSE/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SonukumarCSE/Leetcode/tree/master/0070-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/SonukumarCSE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 # Matrix
@@ -157,3 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/SonukumarCSE/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/SonukumarCSE/Leetcode/tree/master/0139-word-break) |
+# Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SonukumarCSE/Leetcode/tree/master/0062-unique-paths) |
