@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/SonukumarCSE/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/SonukumarCSE/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0876-hand-of-straights](https://github.com/SonukumarCSE/Leetcode/tree/master/0876-hand-of-straights) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/SonukumarCSE/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1014-k-closest-points-to-origin](https://github.com/SonukumarCSE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 # Heap (Priority Queue)
 |  |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0648-replace-words](https://github.com/SonukumarCSE/Leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/SonukumarCSE/Leetcode/tree/master/0876-hand-of-straights) |
 | [0967-minimum-falling-path-sum](https://github.com/SonukumarCSE/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/SonukumarCSE/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1014-k-closest-points-to-origin](https://github.com/SonukumarCSE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SonukumarCSE/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 # Dynamic Programming
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/SonukumarCSE/Leetcode/tree/master/0876-hand-of-straights) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/SonukumarCSE/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 # Monotonic Stack
 |  |
 | ------- |
@@ -171,3 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SonukumarCSE/Leetcode/tree/master/0062-unique-paths) |
+# Counting
+|  |
+| ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/SonukumarCSE/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
