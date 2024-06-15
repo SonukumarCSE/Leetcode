@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/SonukumarCSE/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SonukumarCSE/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/SonukumarCSE/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0502-ipo](https://github.com/SonukumarCSE/Leetcode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/SonukumarCSE/Leetcode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SonukumarCSE/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1014-k-closest-points-to-origin](https://github.com/SonukumarCSE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SonukumarCSE/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0502-ipo](https://github.com/SonukumarCSE/Leetcode/tree/master/0502-ipo) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SonukumarCSE/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/SonukumarCSE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 # Data Stream
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/SonukumarCSE/Leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/SonukumarCSE/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/SonukumarCSE/Leetcode/tree/master/0198-house-robber) |
+| [0502-ipo](https://github.com/SonukumarCSE/Leetcode/tree/master/0502-ipo) |
 | [0648-replace-words](https://github.com/SonukumarCSE/Leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/SonukumarCSE/Leetcode/tree/master/0876-hand-of-straights) |
 | [0967-minimum-falling-path-sum](https://github.com/SonukumarCSE/Leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -149,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/SonukumarCSE/Leetcode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/SonukumarCSE/Leetcode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SonukumarCSE/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 # Monotonic Stack
