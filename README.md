@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/SonukumarCSE/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SonukumarCSE/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1014-k-closest-points-to-origin](https://github.com/SonukumarCSE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/SonukumarCSE/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SonukumarCSE/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 # Dynamic Programming
 |  |
@@ -182,3 +183,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SonukumarCSE/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+# Bit Manipulation
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/SonukumarCSE/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Queue
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/SonukumarCSE/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Sliding Window
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/SonukumarCSE/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Prefix Sum
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/SonukumarCSE/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
