@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/SonukumarCSE/Leetcode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SonukumarCSE/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1014-k-closest-points-to-origin](https://github.com/SonukumarCSE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [2379-maximum-total-importance-of-roads](https://github.com/SonukumarCSE/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 # Heap (Priority Queue)
 |  |
 | ------- |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/SonukumarCSE/Leetcode/tree/master/0502-ipo) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SonukumarCSE/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/SonukumarCSE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [2379-maximum-total-importance-of-roads](https://github.com/SonukumarCSE/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 # Data Stream
 |  |
 | ------- |
@@ -156,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/SonukumarCSE/Leetcode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/SonukumarCSE/Leetcode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SonukumarCSE/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [2379-maximum-total-importance-of-roads](https://github.com/SonukumarCSE/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 # Monotonic Stack
 |  |
 | ------- |
@@ -199,3 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/SonukumarCSE/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Graph
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/SonukumarCSE/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
