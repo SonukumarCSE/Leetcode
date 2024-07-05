@@ -222,4 +222,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/SonukumarCSE/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Array
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/SonukumarCSE/Leetcode/tree/master/0162-find-peak-element) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/SonukumarCSE/Leetcode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
