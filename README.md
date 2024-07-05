@@ -218,4 +218,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/SonukumarCSE/Leetcode/tree/master/0386-lexicographical-numbers) |
+## Linked List
+|  |
+| ------- |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/SonukumarCSE/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
