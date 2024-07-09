@@ -261,4 +261,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/SonukumarCSE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Database
+|  |
+| ------- |
+| [1153-product-sales-analysis-i](https://github.com/SonukumarCSE/Leetcode/tree/master/1153-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
