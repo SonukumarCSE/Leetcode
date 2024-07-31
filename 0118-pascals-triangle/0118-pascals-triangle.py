@@ -11,13 +11,10 @@ class Solution:
         for i in range(2,numRows):
             arr = pascal_tria[i-1]
             # print(arr)
-            low = -1
-            high = low + 1
             num = []
-            if low == -1:
-                num.append(1)
-                low += 1
-                high += 1
+            num.append(1)
+            low = 0
+            high = 1
             while high != len(arr):
                 sum = arr[low] + arr[high]
                 num.append(sum)
