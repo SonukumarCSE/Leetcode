@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/SonukumarCSE/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/SonukumarCSE/Leetcode/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/SonukumarCSE/Leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/SonukumarCSE/Leetcode/tree/master/0169-majority-element) |
 | [1014-k-closest-points-to-origin](https://github.com/SonukumarCSE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1333-sort-the-jumbled-numbers](https://github.com/SonukumarCSE/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/SonukumarCSE/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SonukumarCSE/Leetcode/tree/master/0169-majority-element) |
 | [1014-k-closest-points-to-origin](https://github.com/SonukumarCSE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -258,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SonukumarCSE/Leetcode/tree/master/0169-majority-element) |
 | [1014-k-closest-points-to-origin](https://github.com/SonukumarCSE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1333-sort-the-jumbled-numbers](https://github.com/SonukumarCSE/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 ## Heap (Priority Queue)
@@ -318,4 +321,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SonukumarCSE/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SonukumarCSE/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SonukumarCSE/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SonukumarCSE/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
