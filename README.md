@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/SonukumarCSE/Leetcode/tree/master/0062-unique-paths) |
 | [0273-integer-to-english-words](https://github.com/SonukumarCSE/Leetcode/tree/master/0273-integer-to-english-words) |
 | [1014-k-closest-points-to-origin](https://github.com/SonukumarCSE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SonukumarCSE/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SonukumarCSE/Leetcode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/SonukumarCSE/Leetcode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/SonukumarCSE/Leetcode/tree/master/0118-pascals-triangle) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SonukumarCSE/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Backtracking
@@ -336,4 +338,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/SonukumarCSE/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SonukumarCSE/Leetcode/tree/master/0229-majority-element-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SonukumarCSE/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
