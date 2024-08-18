@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SonukumarCSE/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/SonukumarCSE/Leetcode/tree/master/0386-lexicographical-numbers) |
 ## Linked List
 |  |
@@ -288,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SonukumarCSE/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/SonukumarCSE/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SonukumarCSE/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SonukumarCSE/Leetcode/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/SonukumarCSE/Leetcode/tree/master/0151-reverse-words-in-a-string) |
