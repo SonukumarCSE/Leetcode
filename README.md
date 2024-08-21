@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/SonukumarCSE/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0547-number-of-provinces](https://github.com/SonukumarCSE/Leetcode/tree/master/0547-number-of-provinces) |
 ## Trie
 |  |
 | ------- |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/SonukumarCSE/Leetcode/tree/master/0547-number-of-provinces) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SonukumarCSE/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SonukumarCSE/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Shortest Path
@@ -363,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SonukumarCSE/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/SonukumarCSE/Leetcode/tree/master/0547-number-of-provinces) |
 ## Tree
 |  |
 | ------- |
@@ -396,4 +399,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/SonukumarCSE/Leetcode/tree/master/0090-subsets-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/SonukumarCSE/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
