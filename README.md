@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/SonukumarCSE/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SonukumarCSE/Leetcode/tree/master/0229-majority-element-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/SonukumarCSE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/SonukumarCSE/Leetcode/tree/master/1036-rotting-oranges) |
 | [1325-path-with-maximum-probability](https://github.com/SonukumarCSE/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/SonukumarCSE/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/SonukumarCSE/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SonukumarCSE/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1036-rotting-oranges](https://github.com/SonukumarCSE/Leetcode/tree/master/1036-rotting-oranges) |
 ## Math
 |  |
 | ------- |
@@ -414,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/SonukumarCSE/Leetcode/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/SonukumarCSE/Leetcode/tree/master/1036-rotting-oranges) |
 ## Number Theory
 |  |
 | ------- |
