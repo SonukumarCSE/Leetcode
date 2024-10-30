@@ -237,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/SonukumarCSE/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/SonukumarCSE/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SonukumarCSE/Leetcode/tree/master/0229-majority-element-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/SonukumarCSE/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1014-k-closest-points-to-origin](https://github.com/SonukumarCSE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/SonukumarCSE/Leetcode/tree/master/1036-rotting-oranges) |
 | [1325-path-with-maximum-probability](https://github.com/SonukumarCSE/Leetcode/tree/master/1325-path-with-maximum-probability) |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SonukumarCSE/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/SonukumarCSE/Leetcode/tree/master/0162-find-peak-element) |
+| [0300-longest-increasing-subsequence](https://github.com/SonukumarCSE/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Matrix
 |  |
 | ------- |
@@ -317,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/SonukumarCSE/Leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/SonukumarCSE/Leetcode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/SonukumarCSE/Leetcode/tree/master/0118-pascals-triangle) |
+| [0300-longest-increasing-subsequence](https://github.com/SonukumarCSE/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0664-strange-printer](https://github.com/SonukumarCSE/Leetcode/tree/master/0664-strange-printer) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SonukumarCSE/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Backtracking
