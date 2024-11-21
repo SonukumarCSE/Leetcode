@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1333-sort-the-jumbled-numbers](https://github.com/SonukumarCSE/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/SonukumarCSE/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SonukumarCSE/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/SonukumarCSE/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SonukumarCSE/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/SonukumarCSE/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/SonukumarCSE/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SonukumarCSE/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1036-rotting-oranges](https://github.com/SonukumarCSE/Leetcode/tree/master/1036-rotting-oranges) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/SonukumarCSE/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Math
 |  |
 | ------- |
@@ -347,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SonukumarCSE/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/SonukumarCSE/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Greedy
 |  |
 | ------- |
