@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1333-sort-the-jumbled-numbers](https://github.com/SonukumarCSE/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/SonukumarCSE/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SonukumarCSE/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2232-adding-spaces-to-a-string](https://github.com/SonukumarCSE/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SonukumarCSE/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SonukumarCSE/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/SonukumarCSE/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/SonukumarCSE/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0664-strange-printer](https://github.com/SonukumarCSE/Leetcode/tree/master/0664-strange-printer) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SonukumarCSE/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [2232-adding-spaces-to-a-string](https://github.com/SonukumarCSE/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SonukumarCSE/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Stack
 |  |
@@ -350,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SonukumarCSE/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2232-adding-spaces-to-a-string](https://github.com/SonukumarCSE/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SonukumarCSE/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Greedy
 |  |
@@ -423,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/SonukumarCSE/Leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/SonukumarCSE/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/SonukumarCSE/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [2232-adding-spaces-to-a-string](https://github.com/SonukumarCSE/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
