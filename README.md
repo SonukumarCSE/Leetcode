@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1333-sort-the-jumbled-numbers](https://github.com/SonukumarCSE/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/SonukumarCSE/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SonukumarCSE/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2164-two-best-non-overlapping-events](https://github.com/SonukumarCSE/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/SonukumarCSE/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SonukumarCSE/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SonukumarCSE/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/SonukumarCSE/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/SonukumarCSE/Leetcode/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/SonukumarCSE/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [2164-two-best-non-overlapping-events](https://github.com/SonukumarCSE/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Matrix
 |  |
 | ------- |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/SonukumarCSE/Leetcode/tree/master/0229-majority-element-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/SonukumarCSE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1333-sort-the-jumbled-numbers](https://github.com/SonukumarCSE/Leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [2164-two-best-non-overlapping-events](https://github.com/SonukumarCSE/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [3291-find-if-array-can-be-sorted](https://github.com/SonukumarCSE/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Heap (Priority Queue)
 |  |
@@ -297,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/SonukumarCSE/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/SonukumarCSE/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1325-path-with-maximum-probability](https://github.com/SonukumarCSE/Leetcode/tree/master/1325-path-with-maximum-probability) |
+| [2164-two-best-non-overlapping-events](https://github.com/SonukumarCSE/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Quickselect
 |  |
 | ------- |
@@ -333,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/SonukumarCSE/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0664-strange-printer](https://github.com/SonukumarCSE/Leetcode/tree/master/0664-strange-printer) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SonukumarCSE/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2164-two-best-non-overlapping-events](https://github.com/SonukumarCSE/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Backtracking
 |  |
 | ------- |
