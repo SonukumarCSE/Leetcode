@@ -321,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/SonukumarCSE/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0664-strange-printer](https://github.com/SonukumarCSE/Leetcode/tree/master/0664-strange-printer) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SonukumarCSE/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/SonukumarCSE/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/SonukumarCSE/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SonukumarCSE/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SonukumarCSE/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/SonukumarCSE/Leetcode/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SonukumarCSE/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SonukumarCSE/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/SonukumarCSE/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -365,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/SonukumarCSE/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/SonukumarCSE/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/SonukumarCSE/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Graph
 |  |
