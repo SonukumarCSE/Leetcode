@@ -5,7 +5,14 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
+        count = defaultdict()
         for i in range(len(nums)):
-            for j in range(i+1,len(nums)):
-                if nums[i] + nums[j] == target:
-                    return [i,j]
+            diff = target - nums[i] 
+            if diff in count:
+                return [i,count[diff]]
+            count[nums[i]] = i
+            
+
+           
+              
+   
