@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SonukumarCSE/Leetcode/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/SonukumarCSE/Leetcode/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/SonukumarCSE/Leetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/SonukumarCSE/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/SonukumarCSE/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/SonukumarCSE/Leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/SonukumarCSE/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SonukumarCSE/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SonukumarCSE/Leetcode/tree/master/0229-majority-element-ii) |
@@ -435,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/SonukumarCSE/Leetcode/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/SonukumarCSE/Leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/SonukumarCSE/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/SonukumarCSE/Leetcode/tree/master/0151-reverse-words-in-a-string) |
