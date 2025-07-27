@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SonukumarCSE/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/SonukumarCSE/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/SonukumarCSE/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/SonukumarCSE/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SonukumarCSE/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SonukumarCSE/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SonukumarCSE/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
