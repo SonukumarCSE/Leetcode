@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/SonukumarCSE/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SonukumarCSE/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/SonukumarCSE/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SonukumarCSE/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2232-adding-spaces-to-a-string](https://github.com/SonukumarCSE/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/SonukumarCSE/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SonukumarCSE/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -356,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/SonukumarCSE/Leetcode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/SonukumarCSE/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/SonukumarCSE/Leetcode/tree/master/0090-subsets-ii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SonukumarCSE/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Recursion
 |  |
 | ------- |
@@ -453,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/SonukumarCSE/Leetcode/tree/master/0090-subsets-ii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SonukumarCSE/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SonukumarCSE/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3291-find-if-array-can-be-sorted](https://github.com/SonukumarCSE/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Breadth-First Search
@@ -469,4 +472,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SonukumarCSE/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SonukumarCSE/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
